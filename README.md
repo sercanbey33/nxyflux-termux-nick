@@ -27,7 +27,7 @@ Termux ve Linux ortamları için geliştirilmiş, normal ve şekilli (stylish) n
 | Cursive | 𝒩𝒾𝒸𝓀𝒩𝒶𝓂𝑒 |
 | Small Caps | ɴɪᴄᴋɴᴀᴍᴇ |
 | Bubble | ⓃⓘⓒⓚⓃⓐⓜⓔ |
-| Square | | 🄽🄸🄲🄺🄽🄰🄼🄴 |
+| Square | | Kutu içinde harfle nick github bu fontu desteklemiyor o yüzden burda gözükmüyor.|
 
 ---
 
