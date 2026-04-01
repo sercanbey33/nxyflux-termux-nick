@@ -9,9 +9,9 @@ Termux ve Linux ortamları için geliştirilmiş, normal ve şekilli (stylish) n
 nxyflux-termux-nick/
 ├── nxyfluxnick.py
 ├── nxyfluxnick.jpg
+├── .gitignore
 ├── README.md
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ---
