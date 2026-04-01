@@ -17,7 +17,7 @@ from datetime import datetime
 
 class NickGenerator:
     def __init__(self):
-        # Unicode şekilli fontlar [^1^]
+        
         self.stylish_fonts = {
             'bold': {
                 'a': '𝗮', 'b': '𝗯', 'c': '𝗰', 'd': '𝗱', 'e': '𝗲', 'f': '𝗳',
@@ -222,14 +222,14 @@ class NickGenerator:
         """Karışık stil nick oluştur"""
         base = self.generate_normal_nick()
         
-        # Kelimeyi parçala ve farklı stiller uygula
+        
         mid = len(base) // 2
         first_half = self.to_stylish(base[:mid], random.choice(list(self.stylish_fonts.keys())))
         second_half = self.to_stylish(base[mid:], random.choice(list(self.stylish_fonts.keys())))
         
         result = first_half + second_half
         
-        # Rastgele sembol ekle
+        
         if random.choice([True, False]):
             result = random.choice(self.symbols) + result
         
