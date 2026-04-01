@@ -2,6 +2,29 @@
 
 Termux ve Linux ortamları için geliştirilmiş, normal ve şekilli (stylish) nick oluşturma aracı.
 
+---
+
+### 📁 Dosyalar
+```bash
+nxyflux-termux-nick/
+├── nxyfluxnick.py
+├── nxyfluxnick.jpg
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+### 💻 Sistem Gereksinimleri
+
+- Python 3.6+
+ 
+- Unicode desteği olan terminal
+
+
+---
+
 ## ✨ Özellikler
 
 - 🎲 **Rastgele Normal Nick** - Oyunlar için klasik nickler
@@ -31,24 +54,6 @@ Termux ve Linux ortamları için geliştirilmiş, normal ve şekilli (stylish) n
 
 ---
 
-### 💻 Sistem Gereksinimleri
-
-- Python 3.6+
- 
-- Unicode desteği olan terminal
-
----
-
-### 📁 Dosyalar
-```bash
-nxyflux-termux-nick/
-├── nxyfluxnick.py
-├── nxyfluxnick.jpg
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
 ## 🚀 Kurulum
 
 ### Termux
@@ -75,3 +80,4 @@ python3 nxyfluxnick.py
 ---
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
+
