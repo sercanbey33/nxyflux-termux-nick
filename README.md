@@ -39,7 +39,7 @@ Termux ve Linux ortamları için geliştirilmiş, normal ve şekilli (stylish) n
 
 ---
 
-### 📁 Dosya Yapısı
+### 📁 Dosyalar
 ```bash
 nxyflux-termux-nick/
 ├── nxyfluxnick.py
