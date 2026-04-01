@@ -59,9 +59,13 @@ nxyflux-termux-nick/
 ### Termux
 ```bash
 git clone https://github.com/sercanbey33/nxyflux-termux-nick.git
+```
 
+```bash
 cd nxyflux-termux-nick
+```
 
+```bash
 python nxyfluxnick.py
 ```
 
@@ -69,11 +73,14 @@ python nxyfluxnick.py
 
 ### Linux / MacOS
 ```bash
-
 git clone https://github.com/sercanbey33/nxyflux-termux-nick.git
+```
 
+```bash
 cd nxyflux-termux-nick
+```
 
+```bash
 python3 nxyfluxnick.py
 ```
 
