@@ -1,4 +1,4 @@
-# 🎮 NxYFLuX Nick Oluşturma Tool 🎮
+![nxyfluxnick](nxyflux.jpg)
 
 Termux ve Linux ortamları için geliştirilmiş, normal ve şekilli (stylish) nick oluşturma aracı.
 
