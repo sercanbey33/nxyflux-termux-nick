@@ -1,4 +1,4 @@
-![nxyfluxnick](nxyflux.jpg)
+![nxyfluxnick](./nxyfluxnick.jpg)
 
 Termux ve Linux ortamları için geliştirilmiş, normal ve şekilli (stylish) nick oluşturma aracı.
 
