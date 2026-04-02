@@ -50,7 +50,7 @@ nxyflux-termux-nick/
 | Cursive | 𝒩𝒾𝒸𝓀𝒩𝒶𝓂𝑒 |
 | Small Caps | ɴɪᴄᴋɴᴀᴍᴇ |
 | Bubble | ⓃⓘⓒⓚⓃⓐⓜⓔ |
-| Square | | Kutu içinde harfle nick github bu fontu desteklemiyor o yüzden burda gözükmüyor.|
+| Square | 🄽🄸🄲🄺🄽🄰🄼🄴 |
 
 ---
 
